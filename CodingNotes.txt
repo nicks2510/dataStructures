@@ -1,0 +1,4 @@
+In JavaScript, strings are immutable.
+When using bracket notation for character access, attempting to delete or assign a value to these properties will not succeed.
+str[1]="a" //it will not work
+
